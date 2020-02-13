@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sign In</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f81a429-0088-4573-b4cb-af7c4f14ba47</testCaseGuid>
+   <variable>
+      <defaultValue>'moneytest\r\n'</defaultValue>
+      <description></description>
+      <id>98992ef8-0a9a-4946-ad0a-3e38e1a2c5e4</id>
+      <masked>false</masked>
+      <name>signinusername</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test1234'</defaultValue>
+      <description></description>
+      <id>1f02e574-3e9a-4789-b307-1beaebea6858</id>
+      <masked>false</masked>
+      <name>signinpassword</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Successful deposit with new CC details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b27bfa7e-a67a-460e-b9da-6d52422bb380</testCaseGuid>
+</TestCaseEntity>
